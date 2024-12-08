@@ -41,10 +41,13 @@ This repository contains a Python script for analyzing web server log files. The
 # Output (For sample.log file) :
 
 1. Ip requests count :
+   
    ![image](https://github.com/the-silent-geek/VRV-Assignment/blob/1b3fe5e21d3402f9b2419ca327bf333ead2ec5c3/images/requests.jpg)
 
 2. Endpoints Accessed :
+   
    ![image](https://github.com/the-silent-geek/VRV-Assignment/blob/1b3fe5e21d3402f9b2419ca327bf333ead2ec5c3/images/endpoints.jpg)
 
 3. Suspicious Activity (Threshold=10) :
+   
    ![image](https://github.com/the-silent-geek/VRV-Assignment/blob/1b3fe5e21d3402f9b2419ca327bf333ead2ec5c3/images/suspicious.jpg)
