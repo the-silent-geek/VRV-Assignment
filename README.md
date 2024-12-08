@@ -27,5 +27,13 @@ This repository contains a Python script for analyzing web server log files. The
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/log-analysis-script.git
-   cd log-analysis-script
+   git clone https://github.com/the-silent-geek/VRV-Assignment.git
+   cd VRV-Assignment
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the script using Python (version 3.8 or higher is recommended):
+   ```bash
+   python log_analysis.py sample.log --threshold 10
